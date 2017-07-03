@@ -1,0 +1,18 @@
+PODS:
+  - BaiduMapKit (3.1.0)
+  - JPush (2.1.9)
+  - Masonry (1.0.2)
+
+DEPENDENCIES:
+  - BaiduMapKit
+  - JPush
+  - Masonry
+
+SPEC CHECKSUMS:
+  BaiduMapKit: 4cfaedb118cff7e157e9771859a4bf65a261b2a1
+  JPush: 8bccf709ace4318a8e7008cc4fab42b706bfad46
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+
+PODFILE CHECKSUM: 605a4ecf37a11b4db1da2c3b888ee5cf35186b85
+
+COCOAPODS: 1.0.1
